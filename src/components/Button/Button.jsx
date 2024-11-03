@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import "./Button.css";
+import "./button.css";
 import global from "../../assets/icon/Ic-Web.svg";
 import github from "../../assets/icon/Ic-Github.svg";
 
