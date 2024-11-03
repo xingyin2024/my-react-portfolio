@@ -1,0 +1,85 @@
+.articles-section {
+  background-color: black;
+  color: white;
+  width: 100%;
+}
+
+.articles-container {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  padding: 128px 24px;
+
+  @media (min-width: 1024px) {
+    padding: 128px 128px; 
+  }   
+}
+
+.articles-heading {
+  text-align: center;
+}
+
+.article-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 32px;
+
+  @media (min-width:768px) and (max-width: 1439px) {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  @media (min-width: 1440px) {
+    flex-direction: row;
+    align-items: center;
+    gap: 125px;
+  }   
+}
+
+.article-img {
+  align-self: center;
+  object-fit: cover;
+  object-position: center;  
+  max-height: 200px;  
+  width: 100%;
+  border-radius: 12px;
+  
+  @media (min-width:768px) and (max-width: 1023px) {
+    width: 200px;
+    min-height: 338px;
+  }
+
+  @media (min-width: 1024px) {
+    width: 479px;
+    min-height: 479px;
+  }
+
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 16px;
+  text-align: left;
+  width: 100%;
+
+  @media (min-width: 768px) {
+    max-width: 580px;
+  }  
+}
+
+.date {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: 500;
+  padding: 8px 16px;
+  border-radius: 4px;
+  border: 1px solid white;
+  background: black;
+}

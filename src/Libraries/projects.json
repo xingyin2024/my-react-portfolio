@@ -1,0 +1,136 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Happy Thoughts App",
+      "image": "./Happy-thoughts.png",
+      "description":"The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "APIs",
+        "State"
+      ],
+      "global": "https://xingshappythoughts.global.app/",
+      "github": "https://github.com/xingyin2024/project-happy-thoughts-vite"
+    },
+    {
+      "id": 2,
+      "name": "Survey App",
+      "image": "./Survey.png",      
+      "description":"The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "State"
+      ],
+      "global": "https://survey-personality.global.app/",
+      "github": "https://github.com/xingyin2024/project-survey-vite"
+    },
+    {
+      "id": 3,
+      "name": "Album and Single Releases",
+      "image": "./Album.png",
+      "description":"The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",      
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "APIs"        
+      ],
+      "global": "https://xingsmusiclibary.global.app/",
+      "github": "https://github.com/xingyin2024/project-music-releases-vite"
+    },
+    {
+      "id": 4,
+      "name": "Weather App",
+      "image": "./Weather.png",      
+      "description":"The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "APIs"
+      ],
+      "global": "https://xingsweatherapp.global.app/",
+      "github": "https://github.com/xingyin2024/project-weather-app"
+    },
+    {
+      "id": 5,
+      "name": "Book Library",
+      "image": "./Book.png",      
+      "description":"The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "MoB"
+      ],
+      "global": "https://xingsbooklibrary.global.app/",
+      "github": "https://github.com/xingyin2024/project-library"
+    },
+    {
+      "id": 6,
+      "name": "Travel Chatbot",
+      "image": "./Chatbot.png",      
+      "description":"The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "MoB"
+      ],
+      "global": "https://travelchatbot.global.app/",
+      "github": "https://github.com/xingyin2024/project-chatbot"
+    },
+    {
+      "id": 7,
+      "name": "JavaScript Pizzeria",
+      "image": "./Pizzeria.png",      
+      "description":"The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "APIs"
+      ],
+      "global": "https://xingspizzeria.global.app/",
+      "github": "https://github.com/xingyin2024/project-pizza"
+    },
+    {
+      "id": 8,
+      "name": "Business Site",
+      "image": "./Business.png",      
+      "description":"The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "MoB"
+      ],
+      "global": "https://xingspress.global.app/",
+      "github": "https://github.com/xingyin2024/project-business-site"
+    },
+    {
+      "id": 9,
+      "name": "News Site",
+      "image": "./News.png",      
+      "description":"The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "MoB"
+      ],
+      "global": "https://xingsnews.global.app/",
+      "github": "https://github.com/xingyin2024/project-news-site"
+    }
+  ]
+}

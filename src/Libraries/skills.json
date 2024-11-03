@@ -1,0 +1,48 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "tag": "Code",
+      "info": [
+        "HTML5",
+        "CSS3",
+        "JavaScript ES6",
+        "React",
+        "Styled Components",
+        "GitHub"  
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "Toolbox",
+      "info": [
+        "Atom",
+        "Postman",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Figma",
+        "Keynote",
+        "Slack"
+      ]
+    },    
+    {
+      "id": 3,
+      "tag": "Upcoming",
+      "info": [
+        "Node.js"  
+      ]
+    },    
+    {
+      "id": 4,
+      "tag": "More",
+      "info": [
+        "Branding",
+        "Strategy",
+        "Process Design6",
+        "Concept Development",
+        "Styled Components",
+        "Agile methodology"
+      ]
+    }    
+  ]
+}

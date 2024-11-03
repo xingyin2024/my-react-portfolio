@@ -1,0 +1,22 @@
+.tech-section {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.tech-container {
+  display: flex;
+  flex-direction: column;
+  padding: 64px 16px;
+
+  @media (min-width:768px) and (max-width: 1023px) {
+    padding: 128px 24px;  
+  }  
+
+  @media (min-width: 1024px) {
+    padding: 128px 0px;    
+    width: 800px; 
+  }   
+}
