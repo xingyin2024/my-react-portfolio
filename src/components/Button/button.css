@@ -2,7 +2,7 @@
   width: 30px;
   height: 30px;
   padding: 0 16px;
-  transition: 0.2s; /* Added transition here for hover effect consistency */
+  transition: 0.2s;
 }
 
 .link-button {
@@ -17,7 +17,7 @@
   font-weight: 500;
   font-size: 1.125rem;
   color: black;
-  transition: color 0.2s; /* Added transition here for hover effect consistency */
+  transition: color 0.2s;
 }
 
 .buttons {
@@ -45,9 +45,4 @@
 
 .link-button:hover p {
   color: white;
-}
-
-.link-button:hover img {
-  filter: brightness(0) saturate(100%) invert(100%) sepia(0%) hue-rotate(0deg)
-    contrast(100%);
 }
