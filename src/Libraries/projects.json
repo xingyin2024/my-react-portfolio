@@ -13,7 +13,7 @@
         "APIs",
         "State"
       ],
-      "global": "https://xingshappythoughts.global.app/",
+      "global": "https://xingshappythoughts.netlify.app/",
       "github": "https://github.com/xingyin2024/project-happy-thoughts-vite"
     },
     {
@@ -28,7 +28,7 @@
         "React",
         "State"
       ],
-      "global": "https://survey-personality.global.app/",
+      "global": "https://survey-personality.netlify.app/",
       "github": "https://github.com/xingyin2024/project-survey-vite"
     },
     {
@@ -43,7 +43,7 @@
         "React",
         "APIs"        
       ],
-      "global": "https://xingsmusiclibary.global.app/",
+      "global": "https://xingsmusiclibary.netlify.app/",
       "github": "https://github.com/xingyin2024/project-music-releases-vite"
     },
     {
@@ -58,7 +58,7 @@
         "React",
         "APIs"
       ],
-      "global": "https://xingsweatherapp.global.app/",
+      "global": "https://xingsweatherapp.netlify.app/",
       "github": "https://github.com/xingyin2024/project-weather-app"
     },
     {
@@ -72,7 +72,7 @@
         "JavaScript",
         "MoB"
       ],
-      "global": "https://xingsbooklibrary.global.app/",
+      "global": "https://xingsbooklibrary.netlify.app/",
       "github": "https://github.com/xingyin2024/project-library"
     },
     {
@@ -86,7 +86,7 @@
         "JavaScript",
         "MoB"
       ],
-      "global": "https://travelchatbot.global.app/",
+      "global": "https://travelchatbot.netlify.app/",
       "github": "https://github.com/xingyin2024/project-chatbot"
     },
     {
@@ -101,7 +101,7 @@
         "React",
         "APIs"
       ],
-      "global": "https://xingspizzeria.global.app/",
+      "global": "https://xingspizzeria.netlify.app/",
       "github": "https://github.com/xingyin2024/project-pizza"
     },
     {
@@ -115,7 +115,7 @@
         "JavaScript",
         "MoB"
       ],
-      "global": "https://xingspress.global.app/",
+      "global": "https://xingspress.netlify.app/",
       "github": "https://github.com/xingyin2024/project-business-site"
     },
     {
@@ -129,7 +129,7 @@
         "JavaScript",
         "MoB"
       ],
-      "global": "https://xingsnews.global.app/",
+      "global": "https://xingsnews.netlify.app/",
       "github": "https://github.com/xingyin2024/project-news-site"
     }
   ]
