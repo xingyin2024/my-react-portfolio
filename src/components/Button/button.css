@@ -1,15 +1,14 @@
-.link-button img {
+.link-button svg {
   width: 30px;
   height: 30px;
   padding: 0 16px;
-  transition: 0.2s;
 }
 
 .link-button {
   width: 271px;
   background-color: lightgrey;
   border-radius: 12px;
-  transition: background-color 0.2s;
+  transition: all 0.2s;
 }
 
 .link-button p {
@@ -17,7 +16,6 @@
   font-weight: 500;
   font-size: 1.125rem;
   color: black;
-  transition: color 0.2s;
 }
 
 .buttons {
@@ -43,6 +41,7 @@
   background-color: #eb5577;
 }
 
-.link-button:hover p {
+.link-button:hover p,
+.link-button:hover svg {
   color: white;
 }

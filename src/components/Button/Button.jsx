@@ -1,16 +1,16 @@
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 import "./button.css";
-import global from "../../assets/icon/Ic-Web.svg";
-import github from "../../assets/icon/Ic-Github.svg";
+import { AiOutlineGlobal } from "react-icons/ai";
+import { FaGithub } from "react-icons/fa";
 
 export const Button = ({ image, text, source, color }) => {
-  let icon = image === "Github" ? github : global;
-  
+  let IconComponent = image === "Github" ? FaGithub : AiOutlineGlobal;
+
   return (
     <div className={`link-button ${color}`}>
       <a href={source} target="_blank">
         <div className="button-inner">
-          <img src={icon} alt={`${image} icon`} />
+          <IconComponent />
           <p>{text}</p>
         </div>
       </a>
@@ -24,4 +24,3 @@ Button.propTypes = {
   source: PropTypes.string.isRequired,
   color: PropTypes.string.isRequired,
 };
- 
