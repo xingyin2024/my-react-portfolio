@@ -9,29 +9,50 @@
         "JavaScript ES6",
         "React",
         "Styled Components",
-        "GitHub"  
+        "GitHub",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "RESTful APIs",
+        "TypeScript",
+        "Zustand",
+        "Next.js",
+        "Vite",
+        "Babel",
+        "Bycript"
       ]
     },
     {
       "id": 2,
       "tag": "Toolbox",
       "info": [
-        "Atom",
+        "VS Code",
         "Postman",
         "Adobe Photoshop",
         "Adobe Illustrator",
         "Figma",
-        "Keynote",
-        "Slack"
+        "Notion",
+        "Slack",
+        "Netlify",
+        "Render"
       ]
-    },    
+    },
     {
       "id": 3,
       "tag": "Upcoming",
       "info": [
-        "Node.js"  
+        "AWS",
+        "Google Cloud Platform",
+        "Azure",
+        "Docker",
+        "MS SharePoint",
+        "Ruby",
+        "Sass",
+        "Tailwind",
+        "JWT"
       ]
-    },    
+    },
     {
       "id": 4,
       "tag": "More",
@@ -43,6 +64,6 @@
         "Styled Components",
         "Agile methodology"
       ]
-    }    
+    }
   ]
 }

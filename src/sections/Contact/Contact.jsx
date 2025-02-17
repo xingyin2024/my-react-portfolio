@@ -1,9 +1,5 @@
 import "./contact.css";
-import LinkedIn from "../../assets/icon/Btn-linkedin.svg";
-import GitHub from "../../assets/icon/Btn-github.svg";
-import StackOverFlow from "../../assets/icon/Btn-stackoverflow.svg";
-import Twitter from "../../assets/icon/Btn-twitter.svg";
-import Instagram from "../../assets/icon/Btn-instagram.svg";
+import { SocialMedia } from "../../components/SocialMedia/SocialMedia";
 
 export const Contact = () => {
   return (
@@ -24,22 +20,7 @@ export const Contact = () => {
             <p>xing.yin@gmail.com</p>
           </div>
 
-          <div className="socialmedia">
-            <a href="https://www.linkedin.com/in/xing-yin/" target="_blank">
-              <img src={LinkedIn} alt="LinkedIn"></img>
-            </a>
-
-            <a href="https://github.com/xingyin2024" target="_blank">
-              <img src={GitHub} alt="GitHub" />
-            </a>
-
-            <a
-              href="https://stackoverflowteams.com/c/technigo/users/655/?tab=profile"
-              target="_blank"
-            >
-              <img src={StackOverFlow} alt="StackOverflow" />
-            </a>
-          </div>
+          <SocialMedia />
         </div>
       </div>
     </section>
