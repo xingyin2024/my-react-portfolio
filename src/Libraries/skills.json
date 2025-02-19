@@ -2,36 +2,45 @@
   "skills": [
     {
       "id": 1,
-      "tag": "Code",
+      "tag": "Frontend",
       "info": [
         "HTML5",
         "CSS3",
-        "JavaScript ES6",
+        "JavaScript (ES6+)",
         "React",
+        "React Router",
+        "APIs",
         "Styled Components",
-        "GitHub",
+        "Tailwind",
+        "Zustand",
+        "Accessibility",
+        "Responsive Design"
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "Backend",
+      "info": [
         "Node.js",
         "Express.js",
         "MongoDB",
         "Mongoose",
         "RESTful APIs",
         "TypeScript",
-        "Zustand",
-        "Next.js",
-        "Vite",
-        "Babel",
-        "Bycript"
+        "bcrypt"
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "tag": "Toolbox",
       "info": [
         "VS Code",
         "Postman",
+        "GitHub",
+        "Figma",
         "Adobe Photoshop",
         "Adobe Illustrator",
-        "Figma",
+        "Adobe InDesign",
         "Notion",
         "Slack",
         "Netlify",
@@ -39,30 +48,20 @@
       ]
     },
     {
-      "id": 3,
-      "tag": "Upcoming",
-      "info": [
-        "AWS",
-        "Google Cloud Platform",
-        "Azure",
-        "Docker",
-        "MS SharePoint",
-        "Ruby",
-        "Sass",
-        "Tailwind",
-        "JWT"
-      ]
-    },
-    {
       "id": 4,
       "tag": "More",
       "info": [
-        "Branding",
-        "Strategy",
-        "Process Design6",
-        "Concept Development",
-        "Styled Components",
-        "Agile methodology"
+        "Project Management",
+        "Web Development",
+        "UI/UX Design",
+        "3D Modeling",
+        "React query",
+        "JWT",
+        "Azure",
+        "SharePoint",
+        "Docker",
+        "Ruby",
+        "Sass"
       ]
     }
   ]
