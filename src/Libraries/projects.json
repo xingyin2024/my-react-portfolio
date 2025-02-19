@@ -3,7 +3,7 @@
     {
       "id": 11,
       "name": "Traktamente App",
-      "image": "./Traktamente.png",
+      "image": "./Traktamente.jpg",
       "description": "This full-stack application is a one-stop solution for business trip reporting and management. It features a clean, user-friendly interface with role-based access, fully automated calculations, and a smart alert system that uses built-in validation and pop-up confirmations to keep data accurate and workflows smooth. The backend is powered by Node.js, Express, and MongoDB, while the frontend is built with React. The app also uses React Router for navigation and Context API for state management.",
       "tags": [
         "React Router",
