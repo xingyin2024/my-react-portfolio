@@ -1,7 +1,25 @@
 {
   "projects": [
     {
-      "id": 1,
+      "id": 11,
+      "name": "Traktamente App",
+      "image": "./Traktamente.png",
+      "description": "This full-stack application is a one-stop solution for business trip reporting and management. It features a clean, user-friendly interface with role-based access, fully automated calculations, and a smart alert system that uses built-in validation and pop-up confirmations to keep data accurate and workflows smooth. The backend is powered by Node.js, Express, and MongoDB, while the frontend is built with React. The app also uses React Router for navigation and Context API for state management.",
+      "tags": [
+        "React Router",
+        "React",
+        "Context API",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "APIs"
+      ],
+      "global": "https://final-project-traktamente.netlify.app/",
+      "github": "https://github.com/xingyin2024/project-final"
+    },
+    {
+      "id": 10,
       "name": "To-do App",
       "image": "./Todo.png",
       "description": "A TypeScript app using Zustand for state management to create a dynamic task management solution. Features include adding, removing, and marking tasks as complete or incomplete, a 'Complete All' button, timestamps, dark/light mode toggle, and local storage support.",
@@ -10,7 +28,7 @@
       "github": "https://github.com/xingyin2024/project-to-dos-zustand-vite/tree/typescript"
     },
     {
-      "id": 2,
+      "id": 9,
       "name": "Happy Thoughts App",
       "image": "./Happy-thoughts.png",
       "description": "A React project focused on state management, API interactions for fetching and posting data. Features include a design-aligned UI, sorted thought display by recency, like count for each thought, a form for new thoughts, and a like functionality.",
@@ -19,7 +37,7 @@
       "github": "https://github.com/xingyin2024/project-happy-thoughts-vite"
     },
     {
-      "id": 3,
+      "id": 8,
       "name": "Express API",
       "image": "./Expressapi.jpg",
       "description": "This project involves building a backend API with Express and storing data in MongoDB while adhering to RESTful principles. The API features multiple endpoints to retrieve either a collection of data or a single item. Postman was used to test the API endpoints.",
@@ -35,7 +53,7 @@
       "github": "https://github.com/xingyin2024/project-express-api/tree/main"
     },
     {
-      "id": 4,
+      "id": 7,
       "name": "Movie Collection",
       "image": "./Moviecollection.jpg",
       "description": "My first multi-page React project, utilizing themoviedb.org's API to showcase movies and their details. Features fetching popular movies, rendering movie specifics, and managing image URLs. Designed with a focus on responsiveness and accessibility. Enhancements include error handling, loading states, and dynamic movie lists.",
@@ -51,7 +69,7 @@
       "github": "https://github.com/xingyin2024/project-movies-vite"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Music Releases",
       "image": "./Album.jpg",
       "description": "A React app to display albums. Features include a structured component hierarchy, design fidelity, hover effects, and responsive layouts. Clicking on albums or artists links to external URLs. Components provided; focus on data flow and UI interactions.",
@@ -60,7 +78,7 @@
       "github": "https://github.com/xingyin2024/project-music-releases-vite"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Weather App",
       "image": "./Weather.jpg",
       "description": "A weather application that fetches and displays real-time weather data from the OpenWeatherMap API. Users can search for the current weather in a specific city or allow the app to use their location via the Geolocation API. The app shows key information such as temperature, weather description, sunrise and sunset times, and a 5-day forecast.",
@@ -69,7 +87,7 @@
       "github": "https://github.com/xingyin2024/project-weather-app"
     },
     {
-      "id": 7,
+      "id": 4,
       "name": "Survey App",
       "image": "./Survey.jpg",
       "description": "A React project with a customizable survey form. It focuses on React state and form control. After submission, users see a summary. Design is flexible and prioritises accessibility.",
@@ -78,7 +96,7 @@
       "github": "https://github.com/xingyin2024/project-survey-vite"
     },
     {
-      "id": 8,
+      "id": 3,
       "name": "Book Library",
       "image": "./Book.jpg",
       "description": "This digital library showcases dynamic DOM manipulation and event handling, offering features like display-on-load, filtering, sorting, and random selection of books. Advanced functions include a keyword search bar, a favorite icon for saving preferred books, and a reset button.",
@@ -87,7 +105,7 @@
       "github": "https://github.com/xingyin2024/project-library"
     },
     {
-      "id": 9,
+      "id": 2,
       "name": "Travel Chatbot",
       "image": "./Chatbot.png",
       "description": "A simple chatbot that interacts with the user and guides them through a fun, personalized conversation.",
@@ -96,7 +114,7 @@
       "github": "https://github.com/xingyin2024/project-chatbot"
     },
     {
-      "id": 10,
+      "id": 1,
       "name": "Chatbot Pizzeria",
       "image": "./Pizzeria.png",
       "description": "An interactive JavaScript-based food ordering system where users select their name, food choices, and order details. The program is built using JavaScript's alert() and prompt() methods to interact with the user. Conditional statements and functions were used to handle different choices.",
