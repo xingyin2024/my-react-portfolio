@@ -9,7 +9,7 @@ export const Introduction = () => {
           <h3>Hi there, I am</h3>
           <h1>Xing Yin</h1>
           <h3>
-            Passionate Fullstack Developer with a Background in Architecture
+            Passionate Full-stack Developer with a Background in Architecture
           </h3>
         </div>
 
@@ -38,14 +38,13 @@ export const Introduction = () => {
           </h3>
 
           <p>
-            Xing is a Fullstak Developer with growing expertise in JavaScript,
-            React, TypeScript, and Node.js. She is currently finishing a Web
-            Developer Bootcamp, which has helped her build proficiency in
-            modern, responsive web applications. Having worked 7 years as an
-            Architect, she is eager to merge design principles with hands-on
-            coding. Focused on delivering engaging user experiences, Xing values
-            continuous learning and looks forward to growing within a supportive
-            team.
+            I am a Full-stack Developer with growing expertise in JavaScript,
+            React, TypeScript, and Node.js. I am currently finishing a Web
+            Developer Bootcamp, which has helped me build proficiency in modern,
+            responsive web applications. Having worked 7 years as an Architect,
+            I am eager to merge design principles with hands-on coding. Focused
+            on delivering engaging user experiences, I values continuous
+            learning and looks forward to growing within a supportive team.
           </p>
         </div>
       </div>
