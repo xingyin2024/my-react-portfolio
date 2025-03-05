@@ -42,9 +42,10 @@ export const Introduction = () => {
             React, TypeScript, and Node.js. I am currently finishing a Web
             Developer Bootcamp, which has helped me build proficiency in modern,
             responsive web applications. Having worked 7 years as an Architect,
-            I am eager to merge design principles with hands-on coding. Focused
-            on delivering engaging user experiences, I values continuous
-            learning and looks forward to growing within a supportive team.
+            I am eager to combine my design-thinking approach, user-focused
+            mindset, and passion for problem-solving to build impactful digital
+            solutions. I am also eager to be part of a team that values
+            collaboration, continuous learning, and innovation.
           </p>
         </div>
       </div>
