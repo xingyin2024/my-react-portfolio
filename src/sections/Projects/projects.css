@@ -50,7 +50,6 @@
 .image-container {
   overflow: hidden;
   border-radius: 12px;
-  /* border: 1px solid grey; */
   background-color: rgb(41, 41, 41);
 
   @media (max-width: 1023px) {
